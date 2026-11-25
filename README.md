@@ -43,7 +43,7 @@ Because it's your impulse. You have the impulse (book the table, chase the refun
 
 ## What can Impulse do?
 
-Impulse can reorder your groceries, buy your flight tickets, pay your bills on time, get you a refund, or book a table for Friday night. Some things it gets done in a day:
+Impulse can order your groceries, book your flight tickets, pay your bills on time, get you a refund, or reserve a table for Friday night. Some things it gets done in a day:
 
 - Groceries reordered
 - Flight moved to an earlier time
