@@ -29,6 +29,10 @@ Not the Impulse you were looking for? [Impulse Labs](https://impulselabs.ai) at 
 
 Impulse AI is the same product as Impulse. You never pick a model or write a special prompt. You say what you need in your own words, in the chat app you already use.
 
+## Why impulse.you?
+
+Because it's your impulse. You have the impulse (book the table, chase the refund, send the gift) and Impulse acts on it. The dot in the logo makes the same point: it hops from the *i* to the *m* the moment the impulse becomes action.
+
 ## How Impulse works
 
 1. **Text it.** Tell Impulse what you need on iMessage, WhatsApp, SMS or Telegram, by text or by voice note. You can also call it.
