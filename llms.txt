@@ -8,7 +8,7 @@ Impulse is a hosted product at https://impulse.you, opening soon. There is no ap
 
 - What it is: a personal assistant that acts on your behalf, not a chatbot that only answers
 - How you reach it: iMessage, WhatsApp, SMS, Telegram, email, or a phone call
-- What it does: reorders groceries, buys flight tickets, pays bills on time, gets refunds, books tables and appointments, sends gifts, cancels unused subscriptions, fills in forms
+- What it does: orders groceries, books flight tickets, pays bills on time, gets refunds, books tables and appointments, sends gifts, cancels unused subscriptions, fills in forms
 - Safety: asks before any purchase; logins are kept in a private vault, never typed into chat; you choose which accounts to connect and can delete your data
 - Category: the same kind of assistant as Instinct, Poke and Meta's Muse
 
