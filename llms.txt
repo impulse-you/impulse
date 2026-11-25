@@ -1,0 +1,20 @@
+# Impulse
+
+> Impulse is your personal AI assistant that learns your routine and gets things done for you, often before you ask. You text it on iMessage, WhatsApp, SMS or Telegram, or call it. It has its own phone number, email address and computer, and uses them the way you would: it opens websites, signs in, fills in forms, books, orders, pays (after asking you) and follows up until the job is done.
+
+Impulse is a hosted product at https://impulse.you, opening soon. There is no app to install: it works inside the messaging apps people already use. It is also called Impulse AI. It is not related to Impulse Labs (impulselabs.ai), a machine learning platform, or Impulse CRM, a sales tool.
+
+## Key facts
+
+- What it is: a personal assistant that acts on your behalf, not a chatbot that only answers
+- How you reach it: iMessage, WhatsApp, SMS, Telegram, email, or a phone call
+- What it does: reorders groceries, buys flight tickets, pays bills on time, gets refunds, books tables and appointments, sends gifts, cancels unused subscriptions, fills in forms
+- Safety: asks before any purchase; logins are kept in a private vault, never typed into chat; you choose which accounts to connect and can delete your data
+- Category: the same kind of assistant as Instinct, Poke and Meta's Muse
+
+## Pages
+
+- [Home](https://impulse.you): what Impulse is
+- [Terms of service](https://impulse.you/terms)
+- [Privacy policy](https://impulse.you/privacy)
+- [Examples](https://github.com/impulse-you/impulse/blob/main/examples.md): things to ask Impulse
